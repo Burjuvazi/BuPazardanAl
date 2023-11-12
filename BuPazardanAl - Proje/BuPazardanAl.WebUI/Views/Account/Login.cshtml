@@ -1,0 +1,32 @@
+﻿@model int
+<link href="./css/login.css" rel="stylesheet" />
+
+<div class="login-box" ">
+    <span></span>
+    <h2>Login</h2>
+    <form asp-action="Login" method="post">
+        <div class="user-box">
+            <input type="text" name="email" required="">
+            <label>Username</label>
+        </div>
+        <div class="user-box">
+            <input type="password" name="password" required="">
+            <label>Password</label>
+        </div>
+        <a>
+            <span></span>
+            <span></span>
+            <span></span>
+            <span></span>
+            <input type="submit" style="background-color:darkslategrey;color:aqua;opacity:0.8;border-radius:10px;border-style:none;" value="Submit" />
+        </a>
+        <a style="color:chartreuse;text-align:center;opacity:0.5;">
+            <span></span>
+            <span></span>
+            <span></span>
+            <span></span>
+            Goruntuleme Sayisi : @Model
+        </a>
+    </form>
+    <a href="/Account/CustomerRegister"> Uyeliğin yok mu? </a>
+</div>

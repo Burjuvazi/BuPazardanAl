@@ -1,0 +1,24 @@
+C:\Users\Serkan\Desktop\BuPazardanAl\BuPazardanAl.Core\bin\Debug\net7.0\BuPazardanAl.Core.deps.json
+C:\Users\Serkan\Desktop\BuPazardanAl\BuPazardanAl.Core\bin\Debug\net7.0\BuPazardanAl.Core.dll
+C:\Users\Serkan\Desktop\BuPazardanAl\BuPazardanAl.Core\bin\Debug\net7.0\BuPazardanAl.Core.pdb
+C:\Users\Serkan\Desktop\BuPazardanAl\BuPazardanAl.Core\obj\Debug\net7.0\BuPazardanAl.Core.csproj.AssemblyReference.cache
+C:\Users\Serkan\Desktop\BuPazardanAl\BuPazardanAl.Core\obj\Debug\net7.0\BuPazardanAl.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serkan\Desktop\BuPazardanAl\BuPazardanAl.Core\obj\Debug\net7.0\BuPazardanAl.Core.AssemblyInfoInputs.cache
+C:\Users\Serkan\Desktop\BuPazardanAl\BuPazardanAl.Core\obj\Debug\net7.0\BuPazardanAl.Core.AssemblyInfo.cs
+C:\Users\Serkan\Desktop\BuPazardanAl\BuPazardanAl.Core\obj\Debug\net7.0\BuPazardanAl.Core.csproj.CoreCompileInputs.cache
+C:\Users\Serkan\Desktop\BuPazardanAl\BuPazardanAl.Core\obj\Debug\net7.0\BuPazardanAl.Core.dll
+C:\Users\Serkan\Desktop\BuPazardanAl\BuPazardanAl.Core\obj\Debug\net7.0\refint\BuPazardanAl.Core.dll
+C:\Users\Serkan\Desktop\BuPazardanAl\BuPazardanAl.Core\obj\Debug\net7.0\BuPazardanAl.Core.pdb
+C:\Users\Serkan\Desktop\BuPazardanAl\BuPazardanAl.Core\obj\Debug\net7.0\ref\BuPazardanAl.Core.dll
+C:\Users\Serkan\Desktop\BuPazardanAl - Kopya\BuPazardanAl.Core\bin\Debug\net7.0\BuPazardanAl.Core.deps.json
+C:\Users\Serkan\Desktop\BuPazardanAl - Kopya\BuPazardanAl.Core\bin\Debug\net7.0\BuPazardanAl.Core.dll
+C:\Users\Serkan\Desktop\BuPazardanAl - Kopya\BuPazardanAl.Core\bin\Debug\net7.0\BuPazardanAl.Core.pdb
+C:\Users\Serkan\Desktop\BuPazardanAl - Kopya\BuPazardanAl.Core\obj\Debug\net7.0\BuPazardanAl.Core.csproj.AssemblyReference.cache
+C:\Users\Serkan\Desktop\BuPazardanAl - Kopya\BuPazardanAl.Core\obj\Debug\net7.0\BuPazardanAl.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serkan\Desktop\BuPazardanAl - Kopya\BuPazardanAl.Core\obj\Debug\net7.0\BuPazardanAl.Core.AssemblyInfoInputs.cache
+C:\Users\Serkan\Desktop\BuPazardanAl - Kopya\BuPazardanAl.Core\obj\Debug\net7.0\BuPazardanAl.Core.AssemblyInfo.cs
+C:\Users\Serkan\Desktop\BuPazardanAl - Kopya\BuPazardanAl.Core\obj\Debug\net7.0\BuPazardanAl.Core.csproj.CoreCompileInputs.cache
+C:\Users\Serkan\Desktop\BuPazardanAl - Kopya\BuPazardanAl.Core\obj\Debug\net7.0\BuPazardanAl.Core.dll
+C:\Users\Serkan\Desktop\BuPazardanAl - Kopya\BuPazardanAl.Core\obj\Debug\net7.0\refint\BuPazardanAl.Core.dll
+C:\Users\Serkan\Desktop\BuPazardanAl - Kopya\BuPazardanAl.Core\obj\Debug\net7.0\BuPazardanAl.Core.pdb
+C:\Users\Serkan\Desktop\BuPazardanAl - Kopya\BuPazardanAl.Core\obj\Debug\net7.0\ref\BuPazardanAl.Core.dll

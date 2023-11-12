@@ -1,0 +1,50 @@
+﻿
+
+<link href="/css/register.css" rel="stylesheet" />
+
+@model int
+<body>
+    <h6 style="color:gold;">Bu güne kadar uye olanların sayısı : @Model</h6>
+    <div id="container">
+        <header>Müşteri Üyeliği</header>
+        <form asp-action="CustomerRegister" method="post">
+            <fieldset>
+
+                <select name="CityId">
+                    @foreach (var item in ViewBag.Cities as List<City>)
+                    {
+                        <option value="@item.Id">@item.Name</option>
+                    }
+                </select>
+
+                <br />
+                <br />
+                <input type="text" name="username" id="username" placeholder="Username" required autofocus>
+                <br />
+                <br />
+                <input type="text" name="email" id="email" placeholder="E-mail" required>
+                <br />
+                <br />
+                <input type="text" name="firstName" id="email" placeholder="First Name" required>
+                <br />
+                <br />
+                <input type="text" name="lastName" id="email" placeholder="Last Name" required>
+                <br />
+                <br />
+                <input type="text" name="phoneNumber" id="email" placeholder="Phone Number" required>
+                <br />
+                <br />
+                <input type="password" name="password" id="password" placeholder="Password" required>
+                <br />
+                <br />
+                <input type="password" name="confirm-password" id="confirm-password" placeholder="Confirm Password" required>
+                <br />
+                <br />
+                <br />
+                <label for="submit"></label>
+                <input type="submit" name="submit" id="submit" value="REGISTER">
+
+            </fieldset>
+        </form>
+    </div>
+</body>

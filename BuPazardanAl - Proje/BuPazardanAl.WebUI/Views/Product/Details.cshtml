@@ -1,0 +1,42 @@
+﻿
+@model Product
+<link href="~/css/ProductDetail.css"  rel="stylesheet"/>
+
+
+<div id="container">
+	<div class="product-details">
+		<h1>@Model.Name</h1>
+		<span class="hint-star star">
+			<i class="fa fa-star" aria-hidden="true"></i>
+			<i class="fa fa-star" aria-hidden="true"></i>
+			<i class="fa fa-star" aria-hidden="true"></i>
+			<i class="fa fa-star-half-o" aria-hidden="true"></i>
+			<i class="fa fa-star-o" aria-hidden="true"></i>
+		</span>
+		<p class="information">@Model.Description</p>
+		<div class="control">
+
+			<a class="btn" href="/Product/AddBasketItem/@Model.Id">
+				<span class="price">@Model.Price $</span>
+				<span class="shopping-cart"><i class="fa fa-shopping-cart" aria-hidden="true"></i></span>
+				<span class="buy">Sepete Ekle</span>  
+            </a>
+
+		</div>
+	</div>
+	<div class="product-image">
+
+		<img src="@Model.Image" alt="resim">
+		<div class="info">
+			<h2>Özellikler</h2>
+			<ul>
+				<li><strong>Ürün Adı : </strong>@Model.Name</li>
+				<li><strong>Fiyat : </strong>@Model.Price</li>
+				<li><strong>Adet : </strong>@Model.StockAmount</li>
+				<li><strong>Kategori : </strong>@Model.Category.Name</li>
+			</ul>
+		</div>
+	</div>
+</div>
+
+

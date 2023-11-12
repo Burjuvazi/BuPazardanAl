@@ -1,0 +1,49 @@
+﻿
+
+<link href="/css/register.css" rel="stylesheet" />
+<body>
+    <h6 style="color:gold;">Bu güne kadar uye olanların sayısı : @Model</h6>
+    <div id="container">
+        <header>Satıcı Üyeliği</header>
+        <form asp-action="SellerRegister" method="post">
+            <fieldset>
+                <br />
+                <br />
+                <input type="text" name="sellername" placeholder="Seller Name" required autofocus>
+                <br />
+                <br />
+                <input type="text" name="storename" placeholder="Store Name" required autofocus>
+                <br />
+                <br />
+                <input type="text" name="address"  placeholder="Address" required autofocus>
+                <br />
+                <br />
+                <input type="text" name="username" placeholder="User Name" required autofocus>
+                <br />
+                <br />
+                <input type="text" name="email"  placeholder="E-mail" required>
+                <br />
+                <br />
+                <input type="text" name="firstName" placeholder="First Name" required>
+                <br />
+                <br />
+                <input type="text" name="lastName" placeholder="Last Name" required>
+                <br />
+                <br />
+                <input type="text" name="phoneNumber" placeholder="Phone Number" required>
+                <br />
+                <br />
+                <input type="password" name="password" id="password" placeholder="Password" required>
+                <br />
+                <br />
+                <input type="password" name="confirmpassword" id="confirm-password" placeholder="Confirm Password" required>
+                <br />
+                <br />
+                <br />
+                <label for="submit"></label>
+                <input type="submit" name="submit" id="submit" value="REGISTER">
+
+            </fieldset>
+        </form>
+    </div>
+</body>

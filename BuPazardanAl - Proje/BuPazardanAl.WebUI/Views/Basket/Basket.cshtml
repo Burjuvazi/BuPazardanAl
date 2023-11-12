@@ -1,0 +1,56 @@
+﻿@using BuPazardanAl.WebUI.BasketTransaction.BasketModels;
+@model BasketDto
+
+
+<link href="~/css/basket.css" rel="stylesheet" />
+
+<section class="basket">
+    @if (User.Identity.IsAuthenticated && Model.BasketItems.Count > 0)
+    {
+            <h1>Sepet</h1>
+            @foreach (var item in Model.BasketItems)
+            {
+                <article class="product">
+
+                    <a class="thumbnail" href="/products/85-product-culpa-dolor-aliquip">
+                        <img src="http://www.placehold.it/100x100" alt="Product Culpa Dolor Aliquip" />
+                    </a>
+
+                    <div class="info">
+                        <a class="name" href="/product/details">@item.Name</a>
+
+                        <div class="data-group">
+                            <span class="data">
+                                <strong>Price:</strong>&pound;@item.Price
+                            </span>
+                            <span class="data">
+                                <strong>Qty:</strong>@item.Quantity
+                            </span>
+                            <span class="data">
+                                <strong>Total:</strong>&pound;@(item.Price * (item.Quantity))
+                            </span>
+                            <span class="data">
+                                <strong>User:</strong>&pound;@item.UserName
+                            </span>
+                            <span class="data">
+
+                            <a href="/basket/DecreaseQuantity/@item.ProductId">Azalt</a>
+                            <a href="/basket/DeleteItem/@item.ProductId"> <input class="btn"/>Sepetten Çıkar</a>
+                            </span>
+                        </div>
+                    </div>
+                </article>
+            }
+            <footer>
+            <a href="/basket/BasketClean"> <input class="btn" />Sepeti Boşalt</a>
+            <a href="/OrderProcess/OrderProcess"> <input class="btn" />Satın Al</a>
+                
+            </footer>
+    }
+    else
+    {
+        <h1 style="color:chartreuse;">Sepette ürün bulunmuyor...</h1>
+    }
+
+
+</section>

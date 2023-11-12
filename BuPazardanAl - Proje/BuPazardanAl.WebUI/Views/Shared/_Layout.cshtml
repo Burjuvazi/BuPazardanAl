@@ -1,0 +1,71 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - BuPazardanAl.WebUI</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/BuPazardanAl.WebUI.styles.css" asp-append-version="true" />
+    <link href="~/css/layout.css" rel="stylesheet" />
+</head>
+<body>
+    <header>
+        <nav class="navbar navbar-expand-custom navbar-mainbg">
+            <a class="navbar-brand navbar-logo" href="#">Navbar</a>
+            <button class="navbar-toggler" type="button" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <i class="fas fa-bars text-white"></i>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav ml-auto">
+                    <li>
+                        <div class="hori-selector">
+                            <div class="left">
+                            </div>
+                            <div class="right">
+                            </div>
+                        </div>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/product/products"><i class="fas fa-tachometer-alt"></i>Ürünler</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/category/categories"><i class="far fa-clone"></i>Kategoriler</a>
+                    </li>
+                    <li class="nav-item active">
+                        <a class="nav-link" href="/basket/basket"><i class="far fa-address-book"></i>Sepetim</a>
+                    </li>
+                    @if (!User.Identity.IsAuthenticated)
+                    {
+                        <li class="nav-item">
+                            <a class="nav-link" href="/account/login"><i class="far fa-calendar-alt"></i>Giriş</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="/account/customerregister"><i class="far fa-chart-bar"></i>Müşteri Üyeliği</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="/account/sellerregister"><i class="far fa-chart-bar"></i>Satıcı Üyeliği</a>
+                        </li>
+                    }
+                </ul>
+            </div>
+        </nav>
+    </header>
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    @*    <footer class="border-top footer text-muted">
+    <div class="container">
+    &copy; 2023 - BuPazardanAl.WebUI - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+    </div>
+    </footer>*@
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/js/layout.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

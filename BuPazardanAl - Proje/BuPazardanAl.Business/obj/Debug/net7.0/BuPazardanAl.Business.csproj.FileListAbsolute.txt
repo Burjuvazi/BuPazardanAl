@@ -1,0 +1,39 @@
+C:\Users\Serkan\Desktop\BuPazardanAl\BuPazardanAl.Business\obj\Debug\net7.0\BuPazardanAl.Business.csproj.AssemblyReference.cache
+C:\Users\Serkan\Desktop\BuPazardanAl\BuPazardanAl.Business\obj\Debug\net7.0\BuPazardanAl.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serkan\Desktop\BuPazardanAl\BuPazardanAl.Business\obj\Debug\net7.0\BuPazardanAl.Business.AssemblyInfoInputs.cache
+C:\Users\Serkan\Desktop\BuPazardanAl\BuPazardanAl.Business\obj\Debug\net7.0\BuPazardanAl.Business.AssemblyInfo.cs
+C:\Users\Serkan\Desktop\BuPazardanAl\BuPazardanAl.Business\obj\Debug\net7.0\BuPazardanAl.Business.csproj.CoreCompileInputs.cache
+C:\Users\Serkan\Desktop\BuPazardanAl\BuPazardanAl.Business\bin\Debug\net7.0\BuPazardanAl.Business.deps.json
+C:\Users\Serkan\Desktop\BuPazardanAl\BuPazardanAl.Business\bin\Debug\net7.0\BuPazardanAl.Business.dll
+C:\Users\Serkan\Desktop\BuPazardanAl\BuPazardanAl.Business\bin\Debug\net7.0\BuPazardanAl.Business.pdb
+C:\Users\Serkan\Desktop\BuPazardanAl\BuPazardanAl.Business\bin\Debug\net7.0\BuPazardanAl.Core.dll
+C:\Users\Serkan\Desktop\BuPazardanAl\BuPazardanAl.Business\bin\Debug\net7.0\BuPazardanAl.DataAccess.dll
+C:\Users\Serkan\Desktop\BuPazardanAl\BuPazardanAl.Business\bin\Debug\net7.0\BuPazardanAl.Entities.dll
+C:\Users\Serkan\Desktop\BuPazardanAl\BuPazardanAl.Business\bin\Debug\net7.0\BuPazardanAl.DataAccess.pdb
+C:\Users\Serkan\Desktop\BuPazardanAl\BuPazardanAl.Business\bin\Debug\net7.0\BuPazardanAl.Entities.pdb
+C:\Users\Serkan\Desktop\BuPazardanAl\BuPazardanAl.Business\bin\Debug\net7.0\BuPazardanAl.Core.pdb
+C:\Users\Serkan\Desktop\BuPazardanAl\BuPazardanAl.Business\obj\Debug\net7.0\BuPazardanAl.Business.csproj.CopyComplete
+C:\Users\Serkan\Desktop\BuPazardanAl\BuPazardanAl.Business\obj\Debug\net7.0\BuPazardanAl.Business.dll
+C:\Users\Serkan\Desktop\BuPazardanAl\BuPazardanAl.Business\obj\Debug\net7.0\refint\BuPazardanAl.Business.dll
+C:\Users\Serkan\Desktop\BuPazardanAl\BuPazardanAl.Business\obj\Debug\net7.0\BuPazardanAl.Business.pdb
+C:\Users\Serkan\Desktop\BuPazardanAl\BuPazardanAl.Business\obj\Debug\net7.0\ref\BuPazardanAl.Business.dll
+C:\Users\Serkan\Desktop\BuPazardanAl - Kopya\BuPazardanAl.Business\bin\Debug\net7.0\BuPazardanAl.Business.deps.json
+C:\Users\Serkan\Desktop\BuPazardanAl - Kopya\BuPazardanAl.Business\bin\Debug\net7.0\BuPazardanAl.Business.dll
+C:\Users\Serkan\Desktop\BuPazardanAl - Kopya\BuPazardanAl.Business\bin\Debug\net7.0\BuPazardanAl.Business.pdb
+C:\Users\Serkan\Desktop\BuPazardanAl - Kopya\BuPazardanAl.Business\bin\Debug\net7.0\BuPazardanAl.Core.dll
+C:\Users\Serkan\Desktop\BuPazardanAl - Kopya\BuPazardanAl.Business\bin\Debug\net7.0\BuPazardanAl.DataAccess.dll
+C:\Users\Serkan\Desktop\BuPazardanAl - Kopya\BuPazardanAl.Business\bin\Debug\net7.0\BuPazardanAl.Entities.dll
+C:\Users\Serkan\Desktop\BuPazardanAl - Kopya\BuPazardanAl.Business\bin\Debug\net7.0\BuPazardanAl.DataAccess.pdb
+C:\Users\Serkan\Desktop\BuPazardanAl - Kopya\BuPazardanAl.Business\bin\Debug\net7.0\BuPazardanAl.Entities.pdb
+C:\Users\Serkan\Desktop\BuPazardanAl - Kopya\BuPazardanAl.Business\bin\Debug\net7.0\BuPazardanAl.Core.pdb
+C:\Users\Serkan\Desktop\BuPazardanAl - Kopya\BuPazardanAl.Business\obj\Debug\net7.0\BuPazardanAl.Business.csproj.AssemblyReference.cache
+C:\Users\Serkan\Desktop\BuPazardanAl - Kopya\BuPazardanAl.Business\obj\Debug\net7.0\BuPazardanAl.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serkan\Desktop\BuPazardanAl - Kopya\BuPazardanAl.Business\obj\Debug\net7.0\BuPazardanAl.Business.AssemblyInfoInputs.cache
+C:\Users\Serkan\Desktop\BuPazardanAl - Kopya\BuPazardanAl.Business\obj\Debug\net7.0\BuPazardanAl.Business.AssemblyInfo.cs
+C:\Users\Serkan\Desktop\BuPazardanAl - Kopya\BuPazardanAl.Business\obj\Debug\net7.0\BuPazardanAl.Business.csproj.CoreCompileInputs.cache
+C:\Users\Serkan\Desktop\BuPazardanAl - Kopya\BuPazardanAl.Business\obj\Debug\net7.0\BuPazardanAl.Business.csproj.CopyComplete
+C:\Users\Serkan\Desktop\BuPazardanAl - Kopya\BuPazardanAl.Business\obj\Debug\net7.0\BuPazardanAl.Business.dll
+C:\Users\Serkan\Desktop\BuPazardanAl - Kopya\BuPazardanAl.Business\obj\Debug\net7.0\refint\BuPazardanAl.Business.dll
+C:\Users\Serkan\Desktop\BuPazardanAl - Kopya\BuPazardanAl.Business\obj\Debug\net7.0\BuPazardanAl.Business.pdb
+C:\Users\Serkan\Desktop\BuPazardanAl - Kopya\BuPazardanAl.Business\obj\Debug\net7.0\ref\BuPazardanAl.Business.dll
+C:\Users\Serkan\Desktop\BuPazardanAl - Kopya\BuPazardanAl.Business\obj\Debug\net7.0\Sentry.Attributes.cs
